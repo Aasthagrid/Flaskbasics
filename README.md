@@ -23,11 +23,10 @@ Run this command:
 
 ```bash
 virtualenv venv
-This creates a directory named venv containing a new Python environment.
 
 3. **Activate the Virtual Environment**:
 Activating the virtual environment ensures that any packages you install or use are specific to this environment.
 
 On Windows:
-bash
+```bash
 venv\Scripts\activate
